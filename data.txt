@@ -2,3 +2,8 @@
 234,agatha cristi,and then there were none
 345,agatha cristi,murder on orient express
 567,james clear,atomic habits
+678,george orwell,1984  
+789,harper lee,to kill a mockingbird  
+890,j.d. salinger,the catcher in the rye  
+901,f. scott fitzgerald,the great gatsby  
+012,j.r.r. tolkien,the hobbit  
